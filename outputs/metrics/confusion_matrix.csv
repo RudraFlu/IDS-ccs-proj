@@ -1,0 +1,8 @@
+,Bots,Brute Force,DDoS,DoS,Normal Traffic,Port Scanning,Web Attacks
+Bots,37,0,0,0,9,0,0
+Brute Force,0,215,0,0,3,0,0
+DDoS,0,0,3043,1,3,0,0
+DoS,0,0,0,4599,13,0,0
+Normal Traffic,25,0,0,17,49804,21,0
+Port Scanning,0,0,0,1,1,2157,0
+Web Attacks,0,0,0,0,3,0,48

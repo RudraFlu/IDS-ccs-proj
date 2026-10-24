@@ -1,0 +1,11 @@
+scapy
+pandas
+numpy
+scikit-learn
+flask
+openai
+python-dotenv
+joblib
+matplotlib
+seaborn
+pathlib
